@@ -1,10 +1,9 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: Disco Trays Studios
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    We explore how technology can address social, community, and educational issues through game development, mobile apps, and web systems/databases.
   action: # action button is optional
     label: Find Out More
     url: '#about'
@@ -92,29 +91,29 @@ sections:
     title: Our Crew!
     background_style: bg-info text-white
     members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
-        image: assets/img/members/person1.jpg
+      - title: DR. MARK GOADRICH
+        text: Computer Science Professor
+        image: assets/img/members/DrGoadrich.png
         url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
+      - title: LUCY LYON
+        text: Software Developer
+        image: assets/img/members/Lucy.png
         url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
+      - title: Innocent Nsabimana
+        text: Software Developer
+        image: assets/img/members/Innocent.jpg
         url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
+      - title: ANDREW EVELD
+        text: Software Developer
+        image: assets/img/members/Andrew.jpg
         url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
+      - title: IVY JACKSON
+        text: Software Developer
+        image: assets/img/members/Ivy.jpg
         url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
+      - title: Griffith Samore
+        text: Software Developer
+        image: assets/img/members/Grifith.png
         url: '#'
 
   - type: timeline.html
