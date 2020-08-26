@@ -14,8 +14,8 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: Our Mission
+    text: Disco Tray Studios is a community-focused software development initiative at Hendrix College in Conway, Arkansas. We are five students led by Associate Professor of Computer Science, Dr.Mark Goadrich. This project aims to empower students in developing interactive educational games for social good and provide opportunities for student to execute and complete longer-term software  developmen projects that support the technological needs of the local community.
     actions:
       - title: Get Started!
         url: '#page-top'
@@ -145,18 +145,16 @@ sections:
       Ready to start your next project with us? Give us a call or send us an email
       and we will get back to you as soon as possible!
     actions:
-    - title: +1 (202) 555-014
-      icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:contact@yourwebsite.com
+      url: discotraystudios@gmail.com
     - title: Twitter
       icon: fa-twitter
       icon_type: fab
-      url: '#'
+      url: https://twitter.com/disco_tray
     - title: Facebook
       icon: fa-facebook
       icon_type: fab
-      url: '#'
+      url: 'https://www.facebook.com/discotraystudios/'
 
 ---
